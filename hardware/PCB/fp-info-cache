@@ -1,4 +1,18 @@
-21720604632416871
+21725507815901926
+2EDGK.pretty
+2EDGR-2
+2EDGR-2
+2EDGR-2
+0
+2
+2
+2EDGK.pretty
+degson-2EDGR-5.08-02P-14-00AH-0-0-0
+
+degson-2EDGR 2EDGR
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -48771,7 +48785,7 @@ THT ceramic resonator filter DSS6
 DC_JACK
 DC_JACK
 DC_JACK
-DC_JACK
+DC_JACK DC-005G
 0
 3
 3
@@ -50721,6 +50735,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-WROOM-32D
+ESP32-WROOM-32D
+
+
+0
+39
+39
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
